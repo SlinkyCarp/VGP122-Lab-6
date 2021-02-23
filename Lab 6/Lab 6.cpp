@@ -74,23 +74,6 @@ int main()
 	std::cout << (f > d) << std::endl;
 	std::cout << std::endl;
 
-
-
-	//c + d;
-	//std::cout << << std::endl;
-
-	//c.toString(4, 5);
-	//std::cout << std::endl;
-	//
-	//c.toDouble(3, 6);
-	//std::cout << std::endl;
-	//
-	//c.multiplication(2, 3, 8, 1);
-	//std::cout << std::endl;
-	//
-	//c.division(4, 6, 9, 2);
-	//std::cout << std::endl;
-
 	return 0;
 }
 
